@@ -10,9 +10,13 @@
 }
 
 .nav-link {
-  font-weight: 500;
-  letter-spacing: 0.02em;
-  line-height: 1.5;
+  margin: 50px auto;
+  display: block;
+  width: 180px;
+  background-color: #fff;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 40px;
 }
 
 .nav-link:hover,
